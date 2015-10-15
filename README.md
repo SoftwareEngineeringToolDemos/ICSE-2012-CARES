@@ -5,6 +5,10 @@ This repository contains information related to the tool CARES presented at the 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [Project Page](http://research.microsoft.com/en-us/projects/cares/)
 
+In this repository, for CARES you will find:
+* :x: Source code (not available)
+* :x: Executable tool (not available)
+
 The tool was developed by Anja Guzzi, Andrew Begel, Jessica Miller, and Krishna Nareddy.
 
 This repository was constructed by [Peter Chen](https://github.com/pmchen3) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
