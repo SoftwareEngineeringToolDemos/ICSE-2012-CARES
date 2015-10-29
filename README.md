@@ -4,9 +4,11 @@ This repository contains information related to the tool CARES presented at the 
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [Project Page](http://research.microsoft.com/en-us/projects/cares/)
+* [Tool Video](http://msrvideo.vo.msecnd.net/rmcvideos/166231/166231.mp4)
 
 In this repository, for CARES you will find:
 * :x: Source code (not available)
+* :x: Binaries (not available)
 * :x: Executable tool (not available)
 
 The tool was developed by Anja Guzzi, Andrew Begel, Jessica Miller, and Krishna Nareddy.
