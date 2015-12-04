@@ -14,4 +14,4 @@ In this repository, for CARES you will find:
 
 The tool was developed by Anja Guzzi, Andrew Begel, Jessica Miller, and Krishna Nareddy.
 
-This repository was constructed by [Peter Chen](https://github.com/pmchen3) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+This repository was constructed by [Peter Chen](https://github.com/pmchen3) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Andrew Begel for his help.
